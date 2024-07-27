@@ -1,4 +1,4 @@
-# Password generato
+# Password generator
 
 ## Description
 The simplest password generator according to the given parameters and length from 1-100 characters:
